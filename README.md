@@ -13,14 +13,17 @@ During this period, I have always participated in all projects, programming with
 <p align="center">
     Find out more about me & feel free to connect with me here:
     <br /><br />
-<!--   <a href="https://murilo-campaner.github.io/">
-		<img src="https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+<!-- 	<a href="https://murilo-campaner.github.io/">
+		<img src="https://img.shields.io/badge/website-FFF?style=for-the-badge&logo=devdotto&logoColor=black" />
 	</a> -->
 	<a href="https://www.linkedin.com/in/murilo-campaner/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
   <a href="mailto:contato@campaner.dev">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://calendly.com/murilo-campaner/lets-talk">
+		<img src="https://img.shields.io/badge/Calendly-0069ff?style=for-the-badge&logo=google-calendar&logoColor=white" />
 	</a>
 </p>
 
