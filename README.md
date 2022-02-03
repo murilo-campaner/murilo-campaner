@@ -28,7 +28,7 @@ During this period, I have always participated in all projects, programming with
 </p>
 
 ---
-[![Murilo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=murilo-campaner&hide_border=true)](https://github.com/murilo-campaner)
+[![Murilo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=murilo-campaner&hide_border=true&theme=react-dark)](https://github.com/murilo-campaner)
 
 
 ## ‍💻 Tech Stack
