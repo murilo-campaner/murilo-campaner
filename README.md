@@ -13,9 +13,9 @@ During this period, I have always participated in all projects, programming with
 <p align="center">
     Find out more about me & feel free to connect with me here:
     <br /><br />
-<!-- 	<a href="https://murilo-campaner.github.io/">
+	<a href="https://murilo-campaner.github.io/">
 		<img src="https://img.shields.io/badge/website-FFF?style=for-the-badge&logo=devdotto&logoColor=black" />
-	</a> -->
+	</a>
 	<a href="https://www.linkedin.com/in/murilo-campaner/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
