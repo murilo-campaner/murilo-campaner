@@ -89,5 +89,5 @@ During this period, I have always participated in all projects, programming with
 </p>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/murilo-campaner/murilo-campaner/snake/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://raw.githubusercontent.com/murilo-campaner/murilo-campaner/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
