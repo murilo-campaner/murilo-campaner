@@ -7,7 +7,7 @@ Software engineer by profession and passion, 29 years old, Brazilian, graduated 
 
 I program professionally since I was 17 years old. At 21, I founded a software development company where I had the opportunity to work on projects from many areas and lead an excellent team of developers, serving from small businesses to some multinational giants like Philips, Klabin and Rosicrucian Order.
 
-During this period, I have always participated in all projects, programming with the team and helping with technical issues. After my daughter birth, I decided that I wanted to get back to programming full-time, staying closer to my family. So, I left my company and accepted the proposal to take over the position of Sr. Software Engineer at Luxury Presence, a North American real estate company, where I currently work.
+During this period, I have always participated in all projects, programming with the team and helping with technical issues. After my daughter birth, I decided that I wanted to get back to programming full-time, staying closer to my family. So, I left my company and accepted the proposal to take over the position of Sr. Software Engineer at Uber, where I currently work.
 <br />
 
 <p align="center">
