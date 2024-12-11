@@ -33,8 +33,6 @@ Nearly a year later, an incredible opportunity came my way: a role at Uber. It w
 </p>
 
 ---
-[![Murilo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=murilo-campaner&hide_border=true&theme=react-dark&area=true)](https://github.com/murilo-campaner)
-
 
 ## ‍💻 Tech Stack
 
@@ -87,10 +85,3 @@ Nearly a year later, an incredible opportunity came my way: a role at Uber. It w
 ![Datagrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br />
-
-## 📈 Stats
-<br />
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=murilo-campaner&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=murilo-campaner&hide_border=true&theme=radical" />
-</p>
