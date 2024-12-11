@@ -94,7 +94,3 @@ Nearly a year later, an incredible opportunity came my way: a role at Uber. It w
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=murilo-campaner&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=murilo-campaner&hide_border=true&theme=radical" />
 </p>
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/murilo-campaner/murilo-campaner/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
