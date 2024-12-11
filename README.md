@@ -14,7 +14,7 @@ Nearly a year later, an incredible opportunity came my way: a role at Uber. It w
 <br />
 
 <p align="center">
-    Find out more about my work in my Github/LinkedIn and feel free to drop me a message or schedule a meeting
+    Find out more about my work in my Website/LinkedIn and feel free to drop me a message or schedule a meeting
     <br /><br />
 	<a href="https://murilo-campaner.github.io/">
 		<img src="https://img.shields.io/badge/website-FFF?style=for-the-badge&logo=devdotto&logoColor=black" />
