@@ -3,8 +3,6 @@
 <img src="./images/readme-banner.jpg">
 <br />
 
-Hello, my name is Murilo.
-
 I’m a 32-year-old Brazilian who splits his time between programming, being a father, a husband, and taking my jet ski out to feel the wind on my face (and, occasionally, taste a few bugs along the way). I hold a degree in Information Systems, I’m married to the most amazing partner I could ask for, and I’m the proud father of two treasures: Lara, my spirited 7-year-old daughter who keeps me on my toes, and Lucas, my 9-month-old explorer who’s already perfected the art of turning any room into chaos. Oh, and let’s not forget Margot, our little dog who acts like she’s the CEO of the house.
 
 My passion for programming started at 17, and by 21, I had already founded my own software development company. Over the years, I had the privilege of working on projects for clients of all sizes and industries—ranging from local businesses to global giants like Philips, Klabin, and the Rosicrucian Order. Leading a phenomenal team was rewarding, but I always made it a point to stay hands-on, coding alongside the team and tackling the toughest challenges head-on.
